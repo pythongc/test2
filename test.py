@@ -1,2 +1,1 @@
-print(33111)
-print(333)
+print(11)
