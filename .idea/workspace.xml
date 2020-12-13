@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f10327ea-290f-4610-b214-d4a5c5d6fc00" name="Default Changelist" comment="" />
+    <list default="true" id="f10327ea-290f-4610-b214-d4a5c5d6fc00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fz1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="fz1_2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607821328568</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test1">
+      <created>1607823161650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607823161650</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,14 +109,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1607821173976" />
-    <state x="385" y="13" key="CommitChangelistDialog2" timestamp="1607821328022">
+    <state x="385" y="13" width="1093" height="807" key="CommitChangelistDialog2" timestamp="1607823161119">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="385" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1607821328022" />
-    <state x="361" y="154" key="Vcs.Push.Dialog.v2" timestamp="1607821487391">
+    <state x="385" y="13" width="1093" height="807" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1607823161119" />
+    <state x="361" y="154" key="Vcs.Push.Dialog.v2" timestamp="1607823171565">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="154" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1607821487391" />
+    <state x="361" y="154" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1607823171565" />
+    <state x="530" y="133" key="git4idea.branch.GitSmartOperationDialog" timestamp="1607823232258">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="530" y="133" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.834@0.0.1536.834" timestamp="1607823232258" />
     <state x="599" y="212" key="svn.repositoryBrowser" timestamp="1607821214009">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
